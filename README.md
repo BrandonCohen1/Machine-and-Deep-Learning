@@ -25,6 +25,11 @@
     - Simple Long Short-Term Memory (LSTM) Model with Different Batch Sizes
     - LSTM Model with Dense Layers and Dropout
 
+## VarAE_DCGAN
+- Trained on:
+    - Variational Autoencoder (VAE)
+    - Deep Convolutional Generative Adversarial Network (DCGAN)
+ 
 ## Protein_Stability_Project
 - Trained models:
     - Linear Regression, Decision Tree, and Random Forest
